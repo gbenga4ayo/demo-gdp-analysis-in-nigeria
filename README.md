@@ -17,19 +17,20 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 
 ## Tools
 - Power BI
-- - Excel
+- Excel
 
 ## Techniques and Skills
 - Data normalization
-- - Data transformation with Power Query
-  - Data modelling
-  - Bookmarks
-  - Report automation
-  - Data visualization
+- Data transformation with Power Query
+- Data modelling
+- Bookmarks
+- Report automation
+- Data visualization
 
 ## Datasource
 
 <a href = "https://www.nigerianstat.gov.ng/elibrary/read/1241593"> National bureau of statistics </a>
+
 ## Data Model
 
 ## Dashboard Insights
