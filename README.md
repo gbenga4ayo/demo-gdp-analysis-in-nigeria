@@ -16,11 +16,20 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 - Provide contextual Analysis: Offer contextual explanations for observed GDP trends and growth rates, linking economic events, climate and seasonality, and policies to their potential impacts on th GDP.
 
 ## Tools
+- Power BI
+- - Excel
 
 ## Techniques and Skills
+- Data normalization
+- - Data transformation with Power Query
+  - Data modelling
+  - Bookmarks
+  - Report automation
+  - Data visualization
 
 ## Datasource
 
+<a href = "https://www.nigerianstat.gov.ng/elibrary/read/1241593"> National bureau of statistics </a>
 ## Data Model
 
 ## Dashboard Insights
