@@ -33,13 +33,21 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 ## Data Model
 The data was first normalized in excel before being transformed in Power Query. The raw data was split into nominal and real GDP, and the indirect tax was separated. A date table was also created in Power Query.
 
-![Data Model]()
+![Data Model](link)
 
 ## Dashboard Insights
 ### Overview
+- The current quarter GDP is XXX T NGN following a xx% increase compared to the previous quarter
+![Overview Dashboard](link)
+
 ### GDP by Sector Analysis
 
+![GDP by Sector Analysis](link)
+
 ## Recommendations
+- Recommendation 1
+- Recommendation 2
+- Recommendation 3
 
 ## Downloads
 
